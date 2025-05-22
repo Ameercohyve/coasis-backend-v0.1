@@ -1,0 +1,90 @@
+name: Deploy Node.js and Flask Services
+
+on:
+  push:
+    branches: [dev]
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    outputs:
+      ref: ${{ steps.get-ref.outputs.ref }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: dev
+
+      - name: Get branch/tag ref
+        id: get-ref
+        run: echo "ref=$(echo ${GITHUB_REF#refs/heads/})" >> $GITHUB_OUTPUT
+
+  deploy-nodejs:
+    needs: setup
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Set up SSH
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Deploy Node.js Service
+        run: |
+          ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} '
+            cd ${{ secrets.NODEJS_PATH }} &&
+            git fetch origin &&
+            git reset --hard origin/${{ needs.setup.outputs.ref }} &&
+            npm ci --only=production &&
+            pm2 restart all
+          '
+
+      - name: Verify Node.js Deployment
+        run: |
+          ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} '
+            pm2 status
+          '
+
+  deploy-flask:
+    needs: setup
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Set up SSH
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Deploy Flask Service
+        run: |
+          ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} '
+            cd ${{ secrets.FLASK_PATH }} &&
+            git checkout -- . &&
+            git clean -fd &&
+            git fetch --force origin &&
+            git reset --hard origin/${{ needs.setup.outputs.ref }} &&
+            source venv/bin/activate &&
+            pip install --upgrade pip &&
+            pip install -r requirements.txt &&
+            sudo systemctl restart ai_ml_service
+          '
+
+      - name: Verify Flask Service Deployment
+        run: |
+          ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} '
+            sudo systemctl status ai_ml_service --no-pager
+          '

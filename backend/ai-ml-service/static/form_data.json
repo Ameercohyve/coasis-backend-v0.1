@@ -1,0 +1,882 @@
+[
+  {
+      "service": "Illustration Design",
+      "subservices": [
+          {
+              "name": "Icon Design",
+              "styles": [
+                  "Flat",
+                  "Outline",
+                  "Solid",
+                  "Filled",
+                  "Isometric",
+                  "3D",
+                  "Hand-drawn",
+                  "Abstract"
+              ]
+          },
+          {
+              "name": "Character Design",
+              "styles": [
+                  "Cartoon",
+                  "Realistic",
+                  "Semi-realistic",
+                  "Abstract",
+                  "Anime",
+                  "Mascot-style"
+              ]
+          },
+          {
+              "name": "Chart/Data Illustration",
+              "styles": [
+                  "Infographic-style",
+                  "Minimal",
+                  "Decorative",
+                  "Abstract",
+                  "Stylized"
+              ]
+          },
+          {
+              "name": "Mascot Design",
+              "styles": [
+                  "Brand-centric",
+                  "Humanoid",
+                  "Animal",
+                  "Abstract",
+                  "Comic-style"
+              ]
+          },
+          {
+              "name": "Editorial Illustration",
+              "styles": [
+                  "Line Art",
+                  "Watercolor",
+                  "Vector",
+                  "Mixed Media"
+              ]
+          },
+          {
+              "name": "Isometric Art",
+              "styles": [
+                  "2D Isometric",
+                  "3D Pseudo",
+                  "Gradient-heavy"
+              ]
+          },
+          {
+              "name": "Storyboard / Comic",
+              "styles": [
+                  "Monochrome",
+                  "Colored",
+                  "Sketchy",
+                  "Detailed"
+              ]
+          },
+          {
+              "name": "Environmental Illustration",
+              "styles": [
+                  "Urban",
+                  "Landscape",
+                  "Fantasy",
+                  "Stylized"
+              ]
+          }
+      ],
+      "applications": [
+          "Web",
+          "Print",
+          "Book",
+          "Media",
+          "Games",
+          "Editorial",
+          "Packaging",
+          "Marketing"
+      ]
+  },
+  {
+      "service": "Branding & Identity",
+      "subservices": [
+          {
+              "name": "Logo Design",
+              "styles": [
+                  "Wordmark",
+                  "Lettermark",
+                  "Iconic",
+                  "Combination",
+                  "Emblem",
+                  "Dynamic Logo"
+              ]
+          },
+          {
+              "name": "Brand Guidelines",
+              "styles": [
+                  "Typography-first",
+                  "Color-focused",
+                  "Symbol-heavy",
+                  "Comprehensive"
+              ]
+          },
+          {
+              "name": "Typography System",
+              "styles": [
+                  "Sans-serif",
+                  "Serif",
+                  "Display",
+                  "Monospace"
+              ]
+          },
+          {
+              "name": "Business Collateral",
+              "styles": [
+                  "Stationery",
+                  "Letterhead",
+                  "Email Signature",
+                  "Presentation Templates"
+              ]
+          },
+          {
+              "name": "Brand Mascot",
+              "styles": [
+                  "Illustrated",
+                  "3D",
+                  "Stylized",
+                  "Minimal"
+              ]
+          },
+          {
+              "name": "Color Palette Systems",
+              "styles": [
+                  "Analogous",
+                  "Triadic",
+                  "Monochrome"
+              ]
+          }
+      ],
+      "applications": [
+          "Print",
+          "Digital",
+          "Corporate",
+          "Product Packaging",
+          "Internal Tools"
+      ]
+  },
+  {
+      "service": "Graphic Design",
+      "subservices": [
+          {
+              "name": "Poster/Flyer",
+              "styles": [
+                  "Minimal",
+                  "Bold",
+                  "Collage",
+                  "Retro",
+                  "Typographic"
+              ]
+          },
+          {
+              "name": "Brochure / Catalog",
+              "styles": [
+                  "Z-fold",
+                  "Bi-fold",
+                  "Tri-fold",
+                  "Interactive PDF"
+              ]
+          },
+          {
+              "name": "Infographic",
+              "styles": [
+                  "Statistical",
+                  "Timeline",
+                  "Map-based",
+                  "Hierarchical"
+              ]
+          },
+          {
+              "name": "Social Media Creatives",
+              "styles": [
+                  "Flat",
+                  "Gradient-heavy",
+                  "Illustrated",
+                  "Animated"
+              ]
+          },
+          {
+              "name": "Album Cover / Book Cover",
+              "styles": [
+                  "Grunge",
+                  "Illustrated",
+                  "Photo-manipulated"
+              ]
+          },
+          {
+              "name": "Event Collateral",
+              "styles": [
+                  "Banners",
+                  "Passes",
+                  "Booth Designs"
+              ]
+          },
+          {
+              "name": "Ads (Digital + Print)",
+              "styles": [
+                  "Google Display",
+                  "Billboard",
+                  "Magazine",
+                  "Kiosk"
+              ]
+          }
+      ],
+      "applications": [
+          "Print",
+          "Digital",
+          "Outdoor",
+          "OOH",
+          "Social",
+          "Events"
+      ]
+  },
+  {
+      "service": "UI/UX Design",
+      "subservices": [
+          {
+              "name": "Web UI",
+              "styles": [
+                  "Clean",
+                  "Illustrative",
+                  "Bold",
+                  "Minimalist",
+                  "Immersive"
+              ]
+          },
+          {
+              "name": "Mobile App UI",
+              "styles": [
+                  "Material",
+                  "Flat",
+                  "Neumorphic",
+                  "Dark Mode"
+              ]
+          },
+          {
+              "name": "Design Systems",
+              "styles": [
+                  "Atomic Design",
+                  "Component Libraries",
+                  "Style Guides"
+              ]
+          },
+          {
+              "name": "Dashboards",
+              "styles": [
+                  "Data-heavy",
+                  "Admin",
+                  "SaaS",
+                  "Modular",
+                  "Responsive"
+              ]
+          },
+          {
+              "name": "UX Wireframes",
+              "styles": [
+                  "Low-Fidelity",
+                  "High-Fidelity",
+                  "Interactive"
+              ]
+          },
+          {
+              "name": "User Flows & Journey Mapping",
+              "styles": [
+                  "Diagrammatic",
+                  "Task-based"
+              ]
+          },
+          {
+              "name": "UX Audit",
+              "styles": [
+                  "Heuristic",
+                  "Analytical",
+                  "Behavioral-based"
+              ]
+          }
+      ],
+      "applications": [
+          "Web",
+          "iOS",
+          "Android",
+          "SaaS",
+          "Enterprise",
+          "Consumer Apps"
+      ]
+  },
+  {
+      "service": "Motion Design",
+      "subservices": [
+          {
+              "name": "Logo Animations",
+              "styles": [
+                  "Bounce",
+                  "Morph",
+                  "3D Spin",
+                  "Reveal"
+              ]
+          },
+          {
+              "name": "UI Interactions",
+              "styles": [
+                  "Hover",
+                  "Scroll",
+                  "Transitions",
+                  "Feedback Animations"
+              ]
+          },
+          {
+              "name": "Explainer Videos",
+              "styles": [
+                  "Animated Icons",
+                  "Characters",
+                  "Typography-based"
+              ]
+          },
+          {
+              "name": "Kinetic Typography",
+              "styles": [
+                  "Glitch",
+                  "Smooth Fade",
+                  "Energetic",
+                  "Narrative"
+              ]
+          },
+          {
+              "name": "Animated Ads",
+              "styles": [
+                  "Social Media",
+                  "Display Ads",
+                  "Short Reels"
+              ]
+          },
+          {
+              "name": "Lottie / JSON",
+              "styles": [
+                  "Vector",
+                  "Lightweight",
+                  "Looping"
+              ]
+          }
+      ],
+      "applications": [
+          "Apps",
+          "Websites",
+          "YouTube",
+          "Ads",
+          "Reels",
+          "Product Demos"
+      ]
+  },
+  {
+      "service": "Packaging Design",
+      "subservices": [
+          {
+              "name": "Box Packaging",
+              "styles": [
+                  "Rigid",
+                  "Folding",
+                  "Subscription Box",
+                  "Die-cut"
+              ]
+          },
+          {
+              "name": "Label Design",
+              "styles": [
+                  "Informational",
+                  "Illustrated",
+                  "Typographic"
+              ]
+          },
+          {
+              "name": "Product Wraps",
+              "styles": [
+                  "Bottles",
+                  "Tubes",
+                  "Jars",
+                  "Pouches"
+              ]
+          },
+          {
+              "name": "Eco-Packaging",
+              "styles": [
+                  "Kraft",
+                  "Minimal",
+                  "Recyclable"
+              ]
+          },
+          {
+              "name": "3D Mockups",
+              "styles": [
+                  "Product renders",
+                  "Box Visualizations"
+              ]
+          }
+      ],
+      "applications": [
+          "Retail",
+          "E-commerce",
+          "FMCG",
+          "Cosmetics",
+          "Food",
+          "Pharma"
+      ]
+  },
+  {
+      "service": "Web Design",
+      "subservices": [
+          {
+              "name": "Landing Pages",
+              "styles": [
+                  "Conversion-focused",
+                  "Artistic",
+                  "Narrative",
+                  "Bold"
+              ]
+          },
+          {
+              "name": "Marketing Websites",
+              "styles": [
+                  "SEO-friendly",
+                  "Funnel-based",
+                  "Modern"
+              ]
+          },
+          {
+              "name": "Portfolio Sites",
+              "styles": [
+                  "Clean",
+                  "Grid-based",
+                  "Animation-heavy"
+              ]
+          },
+          {
+              "name": "Web Templates",
+              "styles": [
+                  "CMS Themes",
+                  "HTML Templates"
+              ]
+          }
+      ],
+      "applications": [
+          "SaaS",
+          "Startup Sites",
+          "Creative Portfolios",
+          "Product Launches"
+      ]
+  },
+  {
+      "service": "Merchandise Design",
+      "subservices": [
+          {
+              "name": "Apparel",
+              "styles": [
+                  "Typography",
+                  "Graphic-heavy",
+                  "Minimal",
+                  "Humorous"
+              ]
+          },
+          {
+              "name": "Accessories",
+              "styles": [
+                  "Tote Bags",
+                  "Caps",
+                  "Socks"
+              ]
+          },
+          {
+              "name": "Stationery",
+              "styles": [
+                  "Notebooks",
+                  "Pens",
+                  "Calendars",
+                  "Diaries"
+              ]
+          },
+          {
+              "name": "Stickers",
+              "styles": [
+                  "Iconic",
+                  "Meme-based",
+                  "Illustrated"
+              ]
+          },
+          {
+              "name": "Event Swag",
+              "styles": [
+                  "Cohesive Sets",
+                  "Branded Themes"
+              ]
+          }
+      ],
+      "applications": [
+          "Gifting",
+          "Retail",
+          "Internal Branding",
+          "Fan Merch"
+      ]
+  },
+  {
+      "service": "Print Design",
+      "subservices": [
+          {
+              "name": "Booklets",
+              "styles": [
+                  "Educational",
+                  "Informational",
+                  "Illustrative"
+              ]
+          },
+          {
+              "name": "Magazines",
+              "styles": [
+                  "Editorial",
+                  "Fashion",
+                  "Photo-heavy",
+                  "Minimalist"
+              ]
+          },
+          {
+              "name": "Menus",
+              "styles": [
+                  "Fine Dining",
+                  "Caf\u00e9",
+                  "Minimal",
+                  "Illustrated"
+              ]
+          },
+          {
+              "name": "Certificates",
+              "styles": [
+                  "Formal",
+                  "Elegant",
+                  "Modern"
+              ]
+          },
+          {
+              "name": "Tickets & Passes",
+              "styles": [
+                  "Event-based",
+                  "Stylized",
+                  "Functional"
+              ]
+          }
+      ],
+      "applications": [
+          "Events",
+          "Hospitality",
+          "Publishing",
+          "Institutional"
+      ]
+  },
+  {
+      "service": "3D Design",
+      "subservices": [
+          {
+              "name": "Product Renders",
+              "styles": [
+                  "Photorealistic",
+                  "Stylized",
+                  "Minimal"
+              ]
+          },
+          {
+              "name": "3D Icons",
+              "styles": [
+                  "Clay",
+                  "Isometric",
+                  "Cartoonish"
+              ]
+          },
+          {
+              "name": "Environment/Scenes",
+              "styles": [
+                  "Fantasy",
+                  "Modern",
+                  "Urban",
+                  "Interior"
+              ]
+          },
+          {
+              "name": "3D Typography",
+              "styles": [
+                  "Bold",
+                  "Experimental",
+                  "Retro"
+              ]
+          }
+      ],
+      "applications": [
+          "Product Visualization",
+          "Marketing",
+          "Metaverse",
+          "Games"
+      ]
+  },
+  {
+      "service": "Presentation Design",
+      "subservices": [
+          {
+              "name": "Corporate Decks",
+              "styles": [
+                  "Professional",
+                  "Clean",
+                  "Minimal"
+              ]
+          },
+          {
+              "name": "Pitch Decks",
+              "styles": [
+                  "Investor-focused",
+                  "Narrative",
+                  "Infographic-heavy"
+              ]
+          },
+          {
+              "name": "Sales Enablement",
+              "styles": [
+                  "Conversion-based",
+                  "Modular"
+              ]
+          },
+          {
+              "name": "Templates",
+              "styles": [
+                  "Google Slides",
+                  "PowerPoint",
+                  "Keynote"
+              ]
+          }
+      ],
+      "applications": [
+          "Business",
+          "Sales",
+          "Investment",
+          "Internal Training"
+      ]
+  },
+  {
+      "service": "Social Media Design",
+      "subservices": [
+          {
+              "name": "Instagram Posts",
+              "styles": [
+                  "Carousel",
+                  "Minimal",
+                  "Bold"
+              ]
+          },
+          {
+              "name": "Stories / Reels",
+              "styles": [
+                  "Motion",
+                  "Infographic",
+                  "Product Demos"
+              ]
+          },
+          {
+              "name": "LinkedIn Creatives",
+              "styles": [
+                  "Professional",
+                  "Stat-based",
+                  "Brand Voice"
+              ]
+          },
+          {
+              "name": "Thumbnails",
+              "styles": [
+                  "YouTube",
+                  "Bold Text",
+                  "Cutout + BG"
+              ]
+          },
+          {
+              "name": "GIFs / Animations",
+              "styles": [
+                  "Looping",
+                  "Fun",
+                  "Call to Action"
+              ]
+          }
+      ],
+      "applications": [
+          "Instagram",
+          "LinkedIn",
+          "YouTube",
+          "Facebook",
+          "TikTok"
+      ]
+  },
+  {
+      "service": "Email Design",
+      "subservices": [
+          {
+              "name": "Newsletter Design",
+              "styles": [
+                  "Modular",
+                  "Content-first",
+                  "Branded"
+              ]
+          },
+          {
+              "name": "Transactional Emails",
+              "styles": [
+                  "Clean",
+                  "Functional",
+                  "Accessible"
+              ]
+          },
+          {
+              "name": "Promotional Mailers",
+              "styles": [
+                  "Bold",
+                  "Offer-based",
+                  "Visually engaging"
+              ]
+          },
+          {
+              "name": "Templates",
+              "styles": [
+                  "Drag & Drop",
+                  "Responsive",
+                  "HTML-ready"
+              ]
+          }
+      ],
+      "applications": [
+          "Marketing Automation",
+          "CRM",
+          "Brand Communication"
+      ]
+  },
+  {
+      "service": "Advertising Design",
+      "subservices": [
+          {
+              "name": "Static Ads",
+              "styles": [
+                  "Direct Response",
+                  "Branding",
+                  "Retargeting"
+              ]
+          },
+          {
+              "name": "Display Banners",
+              "styles": [
+                  "GDN",
+                  "Social",
+                  "High CTR"
+              ]
+          },
+          {
+              "name": "OOH Ads",
+              "styles": [
+                  "Billboards",
+                  "Transit",
+                  "Street Furniture"
+              ]
+          },
+          {
+              "name": "Ad Templates",
+              "styles": [
+                  "Editable PSD",
+                  "Ad Variants"
+              ]
+          }
+      ],
+      "applications": [
+          "Performance Marketing",
+          "Outdoor",
+          "Digital Media"
+      ]
+  },
+  {
+      "service": "Event & Exhibit Design",
+      "subservices": [
+          {
+              "name": "Booth Design",
+              "styles": [
+                  "Modular",
+                  "Custom-built",
+                  "Eco"
+              ]
+          },
+          {
+              "name": "Backdrops",
+              "styles": [
+                  "Stage",
+                  "Corporate",
+                  "Photo-op"
+              ]
+          },
+          {
+              "name": "Signage",
+              "styles": [
+                  "Directional",
+                  "Branded"
+              ]
+          },
+          {
+              "name": "Event Themes",
+              "styles": [
+                  "Illustrated",
+                  "Minimal",
+                  "Colorful"
+              ]
+          }
+      ],
+      "applications": [
+          "Conferences",
+          "Expos",
+          "Weddings",
+          "Brand Activations"
+      ]
+  },
+  {
+      "service": "Creative Strategy",
+      "subservices": [
+          {
+              "name": "Design Audits",
+              "styles": [
+                  "Brand-focused",
+                  "UX-oriented"
+              ]
+          },
+          {
+              "name": "Style Exploration",
+              "styles": [
+                  "Moodboarding",
+                  "Experimental",
+                  "Art-direction"
+              ]
+          },
+          {
+              "name": "Naming / Identity",
+              "styles": [
+                  "Wordplay",
+                  "Minimal",
+                  "Descriptive"
+              ]
+          },
+          {
+              "name": "Campaign Concepts",
+              "styles": [
+                  "Multi-channel",
+                  "Thematic",
+                  "Story-led"
+              ]
+          }
+      ],
+      "applications": [
+          "Branding",
+          "Marketing",
+          "Product",
+          "UX"
+      ]
+  }
+]

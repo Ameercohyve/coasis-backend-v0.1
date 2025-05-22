@@ -1,0 +1,19 @@
+{
+    "name": "Sample Project",
+    "businessName": "Acme Corp",
+    "dueDate": "2025-05-01",
+    "projectStatus": "pending",
+    "progress": 0,
+    "businessIds": [],
+    "projectType": "One Time Project",
+    "style": "Minimalist",
+    "application": "Web",
+    "projectBrief": "DesignBrief.pdf",
+    "deadline": "2025-05-01",
+    "budget": 5000,
+    "projectObjective": "Create a user-friendly interface",
+    "projectOverview": "The project aims to redesign the landing page for better customer engagement.",
+    "experienceLevel": "Intermediate",
+    "selectedService": "Web Design",
+    "subService": "Landing Page Design"
+  }

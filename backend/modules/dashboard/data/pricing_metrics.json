@@ -1,0 +1,1925 @@
+{
+  "Illustration Design": {
+    "Icon Design": {
+      "description": "Custom character and mascot illustrations",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, source files (PSD/AI)",
+      "creators": {
+        "pro": {
+          "max": 25000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 20000,
+          "min": 10000
+        },
+        "fresher": {
+          "max": 15000,
+          "min": 7500
+        },
+        "beginner": {
+          "max": 7500,
+          "min": 5000
+        }
+      }
+    },
+    "Character Design": {
+      "description": "Tailored illustrations for various uses",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, source files (PSD/AI)",
+      "creators": {
+        "pro": {
+          "max": 25000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 20000,
+          "min": 10000
+        },
+        "fresher": {
+          "max": 15000,
+          "min": 7500
+        },
+        "beginner": {
+          "max": 7500,
+          "min": 5000
+        }
+      }
+    },
+    "Chart/Data Illustration": {
+      "description": "Custom icon designs",
+      "quantity": "1 Unit",
+      "deliverables": "Vector files (AI, EPS), high-resolution PNG/JPG files",
+      "creators": {
+        "pro": {
+          "max": 18000,
+          "min": 12000
+        },
+        "experienced": {
+          "max": 14000,
+          "min": 9000
+        },
+        "fresher": {
+          "max": 9000,
+          "min": 5000
+        },
+        "beginner": {
+          "max": 5000,
+          "min": 2500
+        }
+      }
+    },
+    "Mascot Design": {
+      "description": "Artwork for album covers",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 22000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 17000,
+          "min": 11000
+        },
+        "fresher": {
+          "max": 11000,
+          "min": 7000
+        },
+        "beginner": {
+          "max": 7000,
+          "min": 3000
+        }
+      }
+    },
+    "Editorial Illustration": {
+      "description": "Concept art for various projects",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, source files (PSD/AI)",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 12000
+        },
+        "beginner": {
+          "max": 12000,
+          "min": 6000
+        }
+      }
+    },
+    "Isometric Art": {
+      "description": "Visual representations of data and information",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, source files (PSD/AI)",
+      "creators": {
+        "pro": {
+          "max": 20000,
+          "min": 14000
+        },
+        "experienced": {
+          "max": 16000,
+          "min": 10000
+        },
+        "fresher": {
+          "max": 10000,
+          "min": 6000
+        },
+        "beginner": {
+          "max": 6000,
+          "min": 2500
+        }
+      }
+    },
+    "Storyboard / Comic": {
+      "description": "Custom portraits and caricatures",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, source files (PSD/AI)",
+      "creators": {
+        "pro": {
+          "max": 22000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 17000,
+          "min": 11000
+        },
+        "fresher": {
+          "max": 11000,
+          "min": 7000
+        },
+        "beginner": {
+          "max": 7000,
+          "min": 3000
+        }
+      }
+    },
+    "Environmental Illustration": {
+      "description": "Custom portraits and caricatures",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, source files (PSD/AI)",
+      "creators": {
+        "pro": {
+          "max": 22000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 17000,
+          "min": 11000
+        },
+        "fresher": {
+          "max": 11000,
+          "min": 7000
+        },
+        "beginner": {
+          "max": 7000,
+          "min": 3000
+        }
+      }
+    }
+  },
+  "Branding & Identity": {
+    "Logo Design": {
+      "description": "Unique logo designs",
+      "quantity": "1 Unit",
+      "deliverables": "Vector files (AI, EPS), high-resolution PNG/JPG files",
+      "creators": {
+        "pro": {
+          "max": 25000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 20000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 15000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 10000,
+          "min": 5000
+        }
+      }
+    },
+    "Brand Guidelines": {
+      "description": "Text-based logo designs",
+      "quantity": "1 Unit",
+      "deliverables": "Vector files (AI, EPS), high-resolution PNG/JPG files",
+      "creators": {
+        "pro": {
+          "max": 22000,
+          "min": 18000
+        },
+        "experienced": {
+          "max": 18000,
+          "min": 13000
+        },
+        "fresher": {
+          "max": 13000,
+          "min": 8000
+        },
+        "beginner": {
+          "max": 8000,
+          "min": 4000
+        }
+      }
+    },
+    "Typography System": {
+      "description": "Custom typography designs",
+      "quantity": "1 Unit",
+      "deliverables": "Font files, vector files (AI, EPS)",
+      "creators": {
+        "pro": {
+          "max": 20000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 15000,
+          "min": 10000
+        },
+        "fresher": {
+          "max": 10000,
+          "min": 6500
+        },
+        "beginner": {
+          "max": 6500,
+          "min": 3000
+        }
+      }
+    },
+    "Business Collateral": {
+      "description": "Business card design",
+      "quantity": "1 Unit",
+      "deliverables": "Print-ready PDF, high-resolution PNG/JPG files",
+      "creators": {
+        "pro": {
+          "max": 10000,
+          "min": 7000
+        },
+        "experienced": {
+          "max": 8000,
+          "min": 5000
+        },
+        "fresher": {
+          "max": 5000,
+          "min": 3000
+        },
+        "beginner": {
+          "max": 3000,
+          "min": 1000
+        }
+      }
+    },
+    "Brand Mascot": {
+      "description": "Product label designs",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 12000,
+          "min": 8000
+        },
+        "experienced": {
+          "max": 9000,
+          "min": 6000
+        },
+        "fresher": {
+          "max": 6000,
+          "min": 3500
+        },
+        "beginner": {
+          "max": 3500,
+          "min": 1500
+        }
+      }
+    },
+    "Color Palette Systems": {
+      "description": "Packaging designs for products",
+      "quantity": "1 Unit",
+      "deliverables": "Print-ready PDF, high-resolution PNG/JPG files",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    }
+  },
+  "Graphic Design": {
+    "Poster/Flyer": {
+      "description": "Custom portraits and caricatures",
+      "quantity": "1 Unit",
+      "deliverables": "Print-ready files, high-resolution PNG/JPG files",
+      "creators": {
+        "pro": {
+          "max": 25000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 20000,
+          "min": 10000
+        },
+        "fresher": {
+          "max": 15000,
+          "min": 7500
+        },
+        "beginner": {
+          "max": 7500,
+          "min": 5000
+        }
+      }
+    },
+    "Brochure / Catalog": {
+      "description": "Designs for pop sockets",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 10000,
+          "min": 6000
+        },
+        "experienced": {
+          "max": 8000,
+          "min": 4500
+        },
+        "fresher": {
+          "max": 4500,
+          "min": 2500
+        },
+        "beginner": {
+          "max": 2500,
+          "min": 1000
+        }
+      }
+    },
+    "Infographic": {
+      "description": "Designs for mugs",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 15000,
+          "min": 8000
+        },
+        "experienced": {
+          "max": 10000,
+          "min": 5000
+        },
+        "fresher": {
+          "max": 5000,
+          "min": 3000
+        },
+        "beginner": {
+          "max": 3000,
+          "min": 1500
+        }
+      }
+    },
+    "Social Media Creatives": {
+      "description": "Designs for bags",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 20000,
+          "min": 12000
+        },
+        "experienced": {
+          "max": 15000,
+          "min": 8000
+        },
+        "fresher": {
+          "max": 8000,
+          "min": 4500
+        },
+        "beginner": {
+          "max": 4500,
+          "min": 2000
+        }
+      }
+    },
+    "Album Cover / Book Cover": {
+      "description": "Designs for tags",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 8000,
+          "min": 4500
+        },
+        "experienced": {
+          "max": 6500,
+          "min": 3500
+        },
+        "fresher": {
+          "max": 3500,
+          "min": 2000
+        },
+        "beginner": {
+          "max": 2000,
+          "min": 750
+        }
+      }
+    },
+    "Event Collateral": {
+      "description": "Custom greeting card designs",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 10000,
+          "min": 6000
+        },
+        "experienced": {
+          "max": 8000,
+          "min": 4500
+        },
+        "fresher": {
+          "max": 4500,
+          "min": 2500
+        },
+        "beginner": {
+          "max": 2500,
+          "min": 1000
+        }
+      }
+    },
+    "Ads (Digital + Print)": {
+      "description": "Custom greeting card designs",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 10000,
+          "min": 6000
+        },
+        "experienced": {
+          "max": 8000,
+          "min": 4500
+        },
+        "fresher": {
+          "max": 4500,
+          "min": 2500
+        },
+        "beginner": {
+          "max": 2500,
+          "min": 1000
+        }
+      }
+    }
+  },
+  "UI/UX Design": {
+    "Web UI": {
+      "description": "Large format outdoor advertisement",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Mobile App UI": {
+      "description": "Online advertisement graphics",
+      "quantity": "1 Unit",
+      "deliverables": "JPG/PNG files, source files (PSD/AI)",
+      "creators": {
+        "pro": {
+          "max": 20000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 15000,
+          "min": 10000
+        },
+        "fresher": {
+          "max": 10000,
+          "min": 7500
+        },
+        "beginner": {
+          "max": 7500,
+          "min": 3000
+        }
+      }
+    },
+    "Design Systems": {
+      "description": "Graphics for Instagram promotions",
+      "quantity": "1 Unit",
+      "deliverables": "JPG/PNG files, editable source files (PSD/AI)",
+      "creators": {
+        "pro": {
+          "max": 18000,
+          "min": 12000
+        },
+        "experienced": {
+          "max": 14000,
+          "min": 9000
+        },
+        "fresher": {
+          "max": 9000,
+          "min": 5000
+        },
+        "beginner": {
+          "max": 5000,
+          "min": 2000
+        }
+      }
+    },
+    "Dashboards": {
+      "description": "Print advertisement for magazines",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 25000,
+          "min": 18000
+        },
+        "experienced": {
+          "max": 20000,
+          "min": 14000
+        },
+        "fresher": {
+          "max": 14000,
+          "min": 9000
+        },
+        "beginner": {
+          "max": 9000,
+          "min": 4000
+        }
+      }
+    },
+    "UX Wireframes": {
+      "description": "Print advertisements for various formats",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 22000,
+          "min": 16000
+        },
+        "experienced": {
+          "max": 18000,
+          "min": 12000
+        },
+        "fresher": {
+          "max": 12000,
+          "min": 8000
+        },
+        "beginner": {
+          "max": 8000,
+          "min": 3500
+        }
+      }
+    },
+    "User Flows & Journey Mapping": {
+      "description": "Graphics for Facebook promotions",
+      "quantity": "1 Unit",
+      "deliverables": "JPG/PNG files, editable source files (PSD/AI)",
+      "creators": {
+        "pro": {
+          "max": 18000,
+          "min": 12000
+        },
+        "experienced": {
+          "max": 14000,
+          "min": 9000
+        },
+        "fresher": {
+          "max": 9000,
+          "min": 5000
+        },
+        "beginner": {
+          "max": 5000,
+          "min": 2000
+        }
+      }
+    },
+    "UX Audit": {
+      "description": "Graphics for Facebook promotions",
+      "quantity": "1 Unit",
+      "deliverables": "JPG/PNG files, editable source files (PSD/AI)",
+      "creators": {
+        "pro": {
+          "max": 18000,
+          "min": 12000
+        },
+        "experienced": {
+          "max": 14000,
+          "min": 9000
+        },
+        "fresher": {
+          "max": 9000,
+          "min": 5000
+        },
+        "beginner": {
+          "max": 5000,
+          "min": 2000
+        }
+      }
+    }
+  },
+  "Motion Design": {
+    "Logo Animations": {
+      "description": "Large format outdoor advertisement",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "UI Interactions": {
+      "description": "Online advertisement graphics",
+      "quantity": "1 Unit",
+      "deliverables": "JPG/PNG files, source files (PSD/AI)",
+      "creators": {
+        "pro": {
+          "max": 20000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 15000,
+          "min": 10000
+        },
+        "fresher": {
+          "max": 10000,
+          "min": 7500
+        },
+        "beginner": {
+          "max": 7500,
+          "min": 3000
+        }
+      }
+    },
+    "Explainer Videos": {
+      "description": "Graphics for Instagram promotions",
+      "quantity": "1 Unit",
+      "deliverables": "JPG/PNG files, editable source files (PSD/AI)",
+      "creators": {
+        "pro": {
+          "max": 18000,
+          "min": 12000
+        },
+        "experienced": {
+          "max": 14000,
+          "min": 9000
+        },
+        "fresher": {
+          "max": 9000,
+          "min": 5000
+        },
+        "beginner": {
+          "max": 5000,
+          "min": 2000
+        }
+      }
+    },
+    "Kinetic Typography": {
+      "description": "Print advertisement for magazines",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 25000,
+          "min": 18000
+        },
+        "experienced": {
+          "max": 20000,
+          "min": 14000
+        },
+        "fresher": {
+          "max": 14000,
+          "min": 9000
+        },
+        "beginner": {
+          "max": 9000,
+          "min": 4000
+        }
+      }
+    },
+    "Animated Ads": {
+      "description": "Print advertisements for various formats",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 22000,
+          "min": 16000
+        },
+        "experienced": {
+          "max": 18000,
+          "min": 12000
+        },
+        "fresher": {
+          "max": 12000,
+          "min": 8000
+        },
+        "beginner": {
+          "max": 8000,
+          "min": 3500
+        }
+      }
+    },
+    "Lottie / JSON": {
+      "description": "Graphics for Facebook promotions",
+      "quantity": "1 Unit",
+      "deliverables": "JPG/PNG files, editable source files (PSD/AI)",
+      "creators": {
+        "pro": {
+          "max": 18000,
+          "min": 12000
+        },
+        "experienced": {
+          "max": 14000,
+          "min": 9000
+        },
+        "fresher": {
+          "max": 9000,
+          "min": 5000
+        },
+        "beginner": {
+          "max": 5000,
+          "min": 2000
+        }
+      }
+    }
+  },
+  "Packaging Design": {
+    "Box Packaging": {
+      "description": "Cover design for magazines",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 18000,
+          "min": 12000
+        },
+        "experienced": {
+          "max": 14000,
+          "min": 9000
+        },
+        "fresher": {
+          "max": 9000,
+          "min": 5000
+        },
+        "beginner": {
+          "max": 5000,
+          "min": 2500
+        }
+      }
+    },
+    "Label Design": {
+      "description": "Cover design for books",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 22000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 17000,
+          "min": 11000
+        },
+        "fresher": {
+          "max": 11000,
+          "min": 7000
+        },
+        "beginner": {
+          "max": 7000,
+          "min": 3000
+        }
+      }
+    },
+    "Product Wraps": {
+      "description": "Cover design for books",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 22000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 17000,
+          "min": 11000
+        },
+        "fresher": {
+          "max": 11000,
+          "min": 7000
+        },
+        "beginner": {
+          "max": 7000,
+          "min": 3000
+        }
+      }
+    },
+    "Eco-Packaging": {
+      "description": "Cover design for books",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 22000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 17000,
+          "min": 11000
+        },
+        "fresher": {
+          "max": 11000,
+          "min": 7000
+        },
+        "beginner": {
+          "max": 7000,
+          "min": 3000
+        }
+      }
+    },
+    "3D Mockups": {
+      "description": "Cover design for books",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 22000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 17000,
+          "min": 11000
+        },
+        "fresher": {
+          "max": 11000,
+          "min": 7000
+        },
+        "beginner": {
+          "max": 7000,
+          "min": 3000
+        }
+      }
+    }
+  },
+  "Web Design": {
+    "Landing Pages": {
+      "description": "Custom presentation designs",
+      "quantity": "1 Unit",
+      "deliverables": "PPT/PPTX files, high-resolution image files",
+      "creators": {
+        "pro": {
+          "max": 25000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 20000,
+          "min": 10000
+        },
+        "fresher": {
+          "max": 15000,
+          "min": 7500
+        },
+        "beginner": {
+          "max": 7500,
+          "min": 4000
+        }
+      }
+    },
+    "Marketing Websites": {
+      "description": "Brochure designs for marketing purposes",
+      "quantity": "1 Unit",
+      "deliverables": "Print-ready PDF, high-resolution PNG/JPG files",
+      "creators": {
+        "pro": {
+          "max": 20000,
+          "min": 12000
+        },
+        "experienced": {
+          "max": 15000,
+          "min": 8000
+        },
+        "fresher": {
+          "max": 8000,
+          "min": 4500
+        },
+        "beginner": {
+          "max": 4500,
+          "min": 2000
+        }
+      }
+    },
+    "Portfolio Sites": {
+      "description": "Custom emailer designs",
+      "quantity": "1 Unit",
+      "deliverables": "HTML files, high-resolution image files",
+      "creators": {
+        "pro": {
+          "max": 10000,
+          "min": 6000
+        },
+        "experienced": {
+          "max": 8000,
+          "min": 4500
+        },
+        "fresher": {
+          "max": 4500,
+          "min": 2500
+        },
+        "beginner": {
+          "max": 2500,
+          "min": 1000
+        }
+      }
+    },
+    "Web Templates": {
+      "description": "Custom emailer designs",
+      "quantity": "1 Unit",
+      "deliverables": "HTML files, high-resolution image files",
+      "creators": {
+        "pro": {
+          "max": 10000,
+          "min": 6000
+        },
+        "experienced": {
+          "max": 8000,
+          "min": 4500
+        },
+        "fresher": {
+          "max": 4500,
+          "min": 2500
+        },
+        "beginner": {
+          "max": 2500,
+          "min": 1000
+        }
+      }
+    }
+  },
+  "Merchandise Design": {
+    "Apparel": {
+      "description": "Custom greeting card designs",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 10000,
+          "min": 6000
+        },
+        "experienced": {
+          "max": 8000,
+          "min": 4500
+        },
+        "fresher": {
+          "max": 4500,
+          "min": 2500
+        },
+        "beginner": {
+          "max": 2500,
+          "min": 1000
+        }
+      }
+    },
+    "Accessories": {
+      "description": "Promotional flyer designs",
+      "quantity": "1 Unit",
+      "deliverables": "Print-ready PDF, high-resolution PNG/JPG files",
+      "creators": {
+        "pro": {
+          "max": 12000,
+          "min": 8000
+        },
+        "experienced": {
+          "max": 9000,
+          "min": 5000
+        },
+        "fresher": {
+          "max": 5000,
+          "min": 3000
+        },
+        "beginner": {
+          "max": 3000,
+          "min": 1500
+        }
+      }
+    },
+    "Stationery": {
+      "description": "Custom certificate designs",
+      "quantity": "1 Unit",
+      "deliverables": "Print-ready PDF, high-resolution PNG/JPG files",
+      "creators": {
+        "pro": {
+          "max": 8000,
+          "min": 5000
+        },
+        "experienced": {
+          "max": 6500,
+          "min": 3500
+        },
+        "fresher": {
+          "max": 3500,
+          "min": 2000
+        },
+        "beginner": {
+          "max": 2000,
+          "min": 750
+        }
+      }
+    },
+    "Stickers": {
+      "description": "Poster designs for various purposes",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 18000,
+          "min": 12000
+        },
+        "experienced": {
+          "max": 14000,
+          "min": 9000
+        },
+        "fresher": {
+          "max": 9000,
+          "min": 5000
+        },
+        "beginner": {
+          "max": 5000,
+          "min": 2500
+        }
+      }
+    },
+    "Event Swag": {
+      "description": "Signage designs for outdoor and indoor use",
+      "quantity": "1 Unit",
+      "deliverables": "High-resolution image files, printable formats",
+      "creators": {
+        "pro": {
+          "max": 20000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 15000,
+          "min": 10000
+        },
+        "fresher": {
+          "max": 10000,
+          "min": 6000
+        },
+        "beginner": {
+          "max": 6000,
+          "min": 2500
+        }
+      }
+    }
+  },
+
+  "Email Design": {
+    "Newsletter Design": {
+      "description": "Newsletter Design",
+      "quantity": "1 Unit",
+      "deliverables": "Newsletter Design Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Transactional Emails": {
+      "description": "Transactional Emails",
+      "quantity": "1 Unit",
+      "deliverables": "Transactional Emails Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Promotional Mailers": {
+      "description": "Promotional Mailers",
+      "quantity": "1 Unit",
+      "deliverables": "Promotional Mailers Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Templates": {
+      "description": "Templates",
+      "quantity": "1 Unit",
+      "deliverables": "Templates Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    }
+  },
+
+  "Advertising Design": {
+    "Static Ads": {
+      "description": "Static Ads",
+      "quantity": "1 Unit",
+      "deliverables": "Static Ads Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Display Banners": {
+      "description": "Display Banners",
+      "quantity": "1 Unit",
+      "deliverables": "Display Banners Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "OOH Ads": {
+      "description": "OOH Ads",
+      "quantity": "1 Unit",
+      "deliverables": "OOH Ads Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Ad Templates": {
+      "description": "Ad Templates",
+      "quantity": "1 Unit",
+      "deliverables": "Ad Templates Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    }
+  },
+
+  "Event & Exhibit Design": {
+    "Booth Design": {
+      "description": "Booth Design",
+      "quantity": "1 Unit",
+      "deliverables": "Booth Design Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Backdrops": {
+      "description": "Backdrops",
+      "quantity": "1 Unit",
+      "deliverables": "Backdrops Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Signage": {
+      "description": "Signage",
+      "quantity": "1 Unit",
+      "deliverables": "Signage Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Event Themes": {
+      "description": "Event Themes",
+      "quantity": "1 Unit",
+      "deliverables": "Event Themes Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    }
+  },
+  "Creative Strategy": {
+    "Design Audits": {
+      "description": "Design Audits",
+      "quantity": "1 Unit",
+      "deliverables": "Design Audits Deliverables",
+      "creators": {
+        "pro": {
+          "max": 10000,
+          "min": 5000
+        },
+        "experienced": {
+          "max": 10000,
+          "min": 5000
+        },
+        "fresher": {
+          "max": 10000,
+          "min": 5000
+        },
+        "beginner": {
+          "max": 10000,
+          "min": 5000
+        }
+      }
+    },
+    "Style Exploration": {
+      "description": "Style Exploration",
+      "quantity": "1 Unit",
+      "deliverables": "Style Exploration Deliverables",
+      "creators": {
+        "pro": {
+          "max": 10000,
+          "min": 5000
+        },
+        "experienced": {
+          "max": 10000,
+          "min": 5000
+        },
+        "fresher": {
+          "max": 10000,
+          "min": 5000
+        },
+        "beginner": {
+          "max": 10000,
+          "min": 5000
+        }
+      }
+    },
+    "Naming / Identity": {
+      "description": "Naming / Identity",
+      "quantity": "1 Unit",
+      "deliverables": "Naming / Identity Deliverables",
+      "creators": {
+        "pro": {
+          "max": 10000,
+          "min": 5000
+        },
+        "experienced": {
+          "max": 10000,
+          "min": 5000
+        },
+        "fresher": {
+          "max": 10000,
+          "min": 5000
+        },
+        "beginner": {
+          "max": 10000,
+          "min": 5000
+        }
+      }
+    },
+    "Campaign Concepts": {
+      "description": "Campaign Concepts",
+      "quantity": "1 Unit",
+      "deliverables": "Campaign Concepts Deliverables",
+      "creators": {
+        "pro": {
+          "max": 10000,
+          "min": 5000
+        },
+        "experienced": {
+          "max": 10000,
+          "min": 5000
+        },
+        "fresher": {
+          "max": 10000,
+          "min": 5000
+        },
+        "beginner": {
+          "max": 10000,
+          "min": 5000
+        }
+      }
+    }
+  },
+
+  "Social Media Design": {
+    "Instagram Posts": {
+      "description": "Instagram Posts",
+      "quantity": "1 Unit",
+      "deliverables": "Instagram Posts Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Stories / Reels": {
+      "description": "Stories / Reels",
+      "quantity": "1 Unit",
+      "deliverables": "Stories / Reels Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "LinkedIn Creatives": {
+      "description": "LinkedIn Creatives",
+      "quantity": "1 Unit",
+      "deliverables": "LinkedIn Creatives Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Thumbnails": {
+      "description": "Thumbnails",
+      "quantity": "1 Unit",
+      "deliverables": "Thumbnails Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "GIFs / Animations": {
+      "description": "GIFs / Animations",
+      "quantity": "1 Unit",
+      "deliverables": "GIFs / Animations Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    }
+  },
+  "Presentation Design": {
+    "Corporate Decks": {
+      "description": "Corporate Decks",
+      "quantity": "1 Unit",
+      "deliverables": "Corporate Decks Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Pitch Decks": {
+      "description": "Pitch Decks",
+      "quantity": "1 Unit",
+      "deliverables": "Pitch Decks Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Sales Enablement": {
+      "description": "Sales Enablement",
+      "quantity": "1 Unit",
+      "deliverables": "Sales Enablement Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Templates": {
+      "description": "Templates",
+      "quantity": "1 Unit",
+      "deliverables": "Templates Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    }
+  },
+
+  "3D Design": {
+    "Product Renders": {
+      "description": "Product Renders",
+      "quantity": "1 Unit",
+      "deliverables": "Product Renders Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "3D Icons": {
+      "description": "3D Icons",
+      "quantity": "1 Unit",
+      "deliverables": "3D Icons Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "Environment/Scenes": {
+      "description": "Environment/Scenes",
+      "quantity": "1 Unit",
+      "deliverables": "Environment/Scenes Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    },
+    "3D Typography": {
+      "description": "3D Typography",
+      "quantity": "1 Unit",
+      "deliverables": "3D Typography Deliverables",
+      "creators": {
+        "pro": {
+          "max": 30000,
+          "min": 20000
+        },
+        "experienced": {
+          "max": 25000,
+          "min": 15000
+        },
+        "fresher": {
+          "max": 20000,
+          "min": 10000
+        },
+        "beginner": {
+          "max": 15000,
+          "min": 5000
+        }
+      }
+    }
+  },
+  "Print Design": {
+    "Booklets": {
+      "description": "Booklets",
+      "quantity": "1 Unit",
+      "deliverables": "Booklets Deliverables",
+      "creators": {
+        "pro": {
+          "max": 25000,
+          "min": 15000
+        },
+        "experienced": {
+          "max": 20000,
+          "min": 10000
+        },
+        "fresher": {
+          "max": 15000,
+          "min": 8000
+        },
+        "beginner": {
+          "max": 10000,
+          "min": 5000
+        }
+      }
+    },
+    "Magazines": {
+      "description": "Magazines",
+      "quantity": "Per Page",
+      "deliverables": "Magazine Layout Deliverables",
+      "creators": {
+        "pro": {
+          "max": 10000,
+          "min": 6000
+        },
+        "experienced": {
+          "max": 8000,
+          "min": 4000
+        },
+        "fresher": {
+          "max": 6000,
+          "min": 3000
+        },
+        "beginner": {
+          "max": 4000,
+          "min": 2000
+        }
+      }
+    },
+    "Menus": {
+      "description": "Menus",
+      "quantity": "1 Unit",
+      "deliverables": "Menu Design Deliverables",
+      "creators": {
+        "pro": {
+          "max": 18000,
+          "min": 10000
+        },
+        "experienced": {
+          "max": 15000,
+          "min": 8000
+        },
+        "fresher": {
+          "max": 12000,
+          "min": 6000
+        },
+        "beginner": {
+          "max": 8000,
+          "min": 4000
+        }
+      }
+    },
+    "Certificates": {
+      "description": "Certificates",
+      "quantity": "1 Unit",
+      "deliverables": "Certificate Design Deliverables",
+      "creators": {
+        "pro": {
+          "max": 15000,
+          "min": 8000
+        },
+        "experienced": {
+          "max": 12000,
+          "min": 6000
+        },
+        "fresher": {
+          "max": 9000,
+          "min": 4000
+        },
+        "beginner": {
+          "max": 6000,
+          "min": 3000
+        }
+      }
+    },
+    "Tickets & Passes": {
+      "description": "Tickets & Passes",
+      "quantity": "1 Unit",
+      "deliverables": "Tickets & Passes Deliverables",
+      "creators": {
+        "pro": {
+          "max": 12000,
+          "min": 6000
+        },
+        "experienced": {
+          "max": 9000,
+          "min": 4000
+        },
+        "fresher": {
+          "max": 7000,
+          "min": 3000
+        },
+        "beginner": {
+          "max": 5000,
+          "min": 2000
+        }
+      }
+    }
+  }
+}

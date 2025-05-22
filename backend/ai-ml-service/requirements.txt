@@ -1,0 +1,16 @@
+flask 
+python-dotenv 
+requests
+opencv-contrib-python
+matplotlib
+torch
+torchvision
+timm
+torchcam
+fpdf==1.7.2
+google-generativeai==0.3.2
+colorama==0.4.6
+numpy
+openai
+python-docx
+flask-cors

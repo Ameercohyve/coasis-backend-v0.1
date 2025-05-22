@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cooasis-ai-ml-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cooasis-ai-ml-service
+  template:
+    metadata:
+      labels:
+        app: cooasis-ai-ml-service
+    spec:
+      containers:
+      - name: ai-ml-service
+        image: <DOCKERHUB_USERNAME>/cooasis-ai-ml-service:latest
+        ports:
+        - containerPort: 5000
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: cooasis-ai-ml-service
+spec:
+  selector:
+    app: cooasis-ai-ml-service
+  ports:
+    - protocol: TCP
+      port: 5000
+      targetPort: 5000
+  type: ClusterIP

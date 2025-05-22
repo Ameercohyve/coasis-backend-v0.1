@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+dist
+tmp
+.git
+.github
+*.md
+*.env
+ai-ml-service/
+upload-service/
+modules/

@@ -1,0 +1,164 @@
+[
+  {
+    "service": "Illustration Design",
+    "subservices": [
+      "Icon Design",
+      "Character Design",
+      "Chart/Data Illustration",
+      "Mascot Design",
+      "Editorial Illustration",
+      "Isometric Art",
+      "Storyboard / Comic",
+      "Environmental Illustration"
+    ]
+  },
+  {
+    "service": "Branding & Identity",
+    "subservices": [
+      "Logo Design",
+      "Brand Guidelines",
+      "Typography System",
+      "Business Collateral",
+      "Brand Mascot",
+      "Color Palette Systems"
+    ]
+  },
+  {
+    "service": "Graphic Design",
+    "subservices": [
+      "Poster/Flyer",
+      "Brochure / Catalog",
+      "Infographic",
+      "Social Media Creatives",
+      "Album Cover / Book Cover",
+      "Event Collateral",
+      "Ads (Digital + Print)"
+    ]
+  },
+  {
+    "service": "UI/UX Design",
+    "subservices": [
+      "Web UI",
+      "Mobile App UI",
+      "Design Systems",
+      "Dashboards",
+      "UX Wireframes",
+      "User Flows & Journey Mapping",
+      "UX Audit"
+    ]
+  },
+  {
+    "service": "Motion Design",
+    "subservices": [
+      "Logo Animations",
+      "UI Interactions",
+      "Explainer Videos",
+      "Kinetic Typography",
+      "Animated Ads",
+      "Lottie / JSON"
+    ]
+  },
+  {
+    "service": "Packaging Design",
+    "subservices": [
+      "Box Packaging",
+      "Label Design",
+      "Product Wraps",
+      "Eco-Packaging",
+      "3D Mockups"
+    ]
+  },
+  {
+    "service": "Web Design",
+    "subservices": [
+      "Landing Pages",
+      "Marketing Websites",
+      "Portfolio Sites",
+      "Web Templates"
+    ]
+  },
+  {
+    "service": "Merchandise Design",
+    "subservices": [
+      "Apparel",
+      "Accessories",
+      "Stationery",
+      "Stickers",
+      "Event Swag"
+    ]
+  },
+  {
+    "service": "Print Design",
+    "subservices": [
+      "Booklets",
+      "Magazines",
+      "Menus",
+      "Certificates",
+      "Tickets & Passes"
+    ]
+  },
+  {
+    "service": "3D Design",
+    "subservices": [
+      "Product Renders",
+      "3D Icons",
+      "Environment/Scenes",
+      "3D Typography"
+    ]
+  },
+  {
+    "service": "Presentation Design",
+    "subservices": [
+      "Corporate Decks",
+      "Pitch Decks",
+      "Sales Enablement",
+      "Templates"
+    ]
+  },
+  {
+    "service": "Social Media Design",
+    "subservices": [
+      "Instagram Posts",
+      "Stories / Reels",
+      "LinkedIn Creatives",
+      "Thumbnails",
+      "GIFs / Animations"
+    ]
+  },
+  {
+    "service": "Email Design",
+    "subservices": [
+      "Newsletter Design",
+      "Transactional Emails",
+      "Promotional Mailers",
+      "Templates"
+    ]
+  },
+  {
+    "service": "Advertising Design",
+    "subservices": [
+      "Static Ads",
+      "Display Banners",
+      "OOH Ads",
+      "Ad Templates"
+    ]
+  },
+  {
+    "service": "Event & Exhibit Design",
+    "subservices": [
+      "Booth Design",
+      "Backdrops",
+      "Signage",
+      "Event Themes"
+    ]
+  },
+  {
+    "service": "Creative Strategy",
+    "subservices": [
+      "Design Audits",
+      "Style Exploration",
+      "Naming / Identity",
+      "Campaign Concepts"
+    ]
+  }
+]
