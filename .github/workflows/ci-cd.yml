@@ -7,11 +7,9 @@ on:
     branches: [ main ]
 
 jobs:
-  build-and-push-backend:
+  build-backend:
+    name: Build and Push Backend
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: backend
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -20,8 +18,10 @@ jobs:
         with:
           node-version: '20'
       - name: Install dependencies
+        working-directory: backend
         run: npm ci
       - name: Run tests (if any)
+        working-directory: backend
         run: echo "No tests configured"
       - name: Log in to Docker Hub
         uses: docker/login-action@v3
@@ -36,11 +36,9 @@ jobs:
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/cooasis-backend:latest
 
-  build-and-push-ai-ml-service:
+  build-ai-ml-service:
+    name: Build and Push AI-ML Service
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: backend/ai-ml-service
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -49,8 +47,10 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install dependencies
+        working-directory: backend/ai-ml-service
         run: pip install -r requirements.txt
       - name: Run tests (if any)
+        working-directory: backend/ai-ml-service
         run: echo "No tests configured"
       - name: Log in to Docker Hub
         uses: docker/login-action@v3
@@ -65,11 +65,9 @@ jobs:
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/cooasis-ai-ml-service:latest
 
-  build-and-push-upload-service:
+  build-upload-service:
+    name: Build and Push Upload Service
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: backend/upload-service
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -78,8 +76,10 @@ jobs:
         with:
           node-version: '20'
       - name: Install dependencies
+        working-directory: backend/upload-service
         run: npm ci
       - name: Run tests (if any)
+        working-directory: backend/upload-service
         run: echo "No tests configured"
       - name: Log in to Docker Hub
         uses: docker/login-action@v3
