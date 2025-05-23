@@ -108,9 +108,6 @@ jobs:
       - name: Install dependencies
         working-directory: backend/upload-service
         run: npm ci
-      - name: Run tests (if any)
-        working-directory: backend/upload-service
-        run: echo "No tests configured"
       - name: Log in to Docker Hub
         uses: docker/login-action@v3
         with:
