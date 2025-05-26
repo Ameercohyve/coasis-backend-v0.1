@@ -3,8 +3,6 @@ name: CI/CD Pipeline
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
 jobs:
   build-backend:
@@ -16,7 +14,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '18'
       - name: Install dependencies
         working-directory: backend
         run: npm ci
@@ -74,7 +72,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '18'
       - name: Install dependencies
         working-directory: backend/upload-service
         run: npm ci
@@ -93,3 +91,41 @@ jobs:
           file: ./backend/upload-service/Dockerfile
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/cooasis-upload-service:latest
+
+  ssh-to-ec2:
+    name: SSH into EC2 Instance
+    needs:
+      - build-backend
+      - build-ai-ml-service
+      - build-upload-service
+    runs-on: ubuntu-latest
+    steps:
+      - name: SSH and run command on EC2
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_KEY }}
+          port: 22
+          script: |
+            echo "Successfully connected to EC2!"
+            # Add your deployment or other commands below
+            uname -a
+
+  k8s-deploy:
+    name: Deploy to Kubernetes
+    needs: ssh-to-ec2
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Kubeconfig
+        run: |
+          mkdir -p $HOME/.kube
+          echo "${{ secrets.KUBECONFIG }}" > $HOME/.kube/config
+      - name: Deploy manifests to Kubernetes
+        run: |
+          kubectl apply -f k8s/
+          # Replace 'k8s/' with your manifests directory or file
+      - name: Check rollout status
+        run: |
+          kubectl rollout status deployment/<your-deployment-name> -n <your-namespace>
+          # Replace with your actual deployment and namespace
